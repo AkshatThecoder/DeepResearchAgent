@@ -12,7 +12,7 @@ This project is a dual-agent system using LangGraph (via LangChain) to perform d
 
 ## Setup Instructions
 1. Create a `.env` file (see `.env.example`).
-2. Now put your TAVILY_API_KEY and GROQ_API_KEY
+2. Now put your TAVILY_API_KEY and GROQ_API_KEY in your .env file
 3. Install dependencies:
     ```
     pip install -r requirements.txt
