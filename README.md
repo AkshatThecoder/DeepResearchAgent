@@ -21,5 +21,5 @@ This project is a dual-agent system using LangGraph (via LangChain) to perform d
     python main.py
     ```
 
-## No OpenAI or Anthropic needed ✅
+
 
